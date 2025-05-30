@@ -21,3 +21,5 @@ The bot's responses are intentionally limited to 100 tokens (~75-100 words) to:
 - CSS
 - JavaScript
 - OpenRouter API for AI responses
+
+ 👉[Live link](https://openai-chat-box.netlify.app/)
